@@ -1,0 +1,14 @@
+{
+    "training": {
+        "awscloudformation": {
+            "AuthRoleName": "serverlessgraphqlapp-20190225232039-authRole",
+            "UnauthRoleArn": "arn:aws:iam::564525458547:role/serverlessgraphqlapp-20190225232039-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::564525458547:role/serverlessgraphqlapp-20190225232039-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "serverlessgraphqlapp-20190225232039-deployment",
+            "UnauthRoleName": "serverlessgraphqlapp-20190225232039-unauthRole",
+            "StackName": "serverlessgraphqlapp-20190225232039",
+            "StackId": "arn:aws:cloudformation:us-east-1:564525458547:stack/serverlessgraphqlapp-20190225232039/19a1bf80-396d-11e9-91ee-12545315cab6"
+        }
+    }
+}
